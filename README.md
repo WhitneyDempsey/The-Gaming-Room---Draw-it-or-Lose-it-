@@ -1,7 +1,7 @@
 # The-Gaming-Room---Draw-it-or-Lose-it-
 CS 230 Operating Platforms 
 
-This respository contains my completed software design document for The Gaming Room client. 
+This repository contains my completed software design document for The Gaming Room client. 
 
 ## Project Overview 
 
